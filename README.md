@@ -42,4 +42,8 @@ git pull origin main # traz do remoto para o local
 
 Documentação da linguagem [Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+<<<<<<< HEAD
 Texto legal
+=======
+Texto vindo do github
+>>>>>>> d6192e2f568b10524b535f6b56984a4dd4213196
